@@ -1,6 +1,3 @@
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
 
 let mover;
 let count = 0;

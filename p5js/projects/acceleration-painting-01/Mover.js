@@ -1,8 +1,9 @@
-
-
-// The Nature of Code
-// Daniel Shiffman
-// http://natureofcode.com
+/*
+ * Original mover objects adapted from Daniel Shiffman's The Nature of Code where
+ * shows a moving ball with random acceleration.
+ *
+ * https://github.com/nature-of-code/noc-examples-p5.js/blob/master/chp01_vectors/NOC_1_09_motion101_acceleration/mover.js
+ */
 
 class Mover{
   constructor(){
